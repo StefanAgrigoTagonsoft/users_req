@@ -1,0 +1,38 @@
+name: users_json
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.0
+  riverpod: ^2.5.1
+  flutter_riverpod: ^2.5.1
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  json_serializable: ^6.7.1
+  build_runner: ^2.4.9 
+
+
+  flutter_lints: ^3.0.0
+
+
+
+
+flutter:
+
+
+  uses-material-design: true
+
+
